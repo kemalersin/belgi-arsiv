@@ -4,6 +4,13 @@ Belgi Arşiv sürümlerinde neler değişti — kısa özet.
 
 İndirilen kurulum, ZIP veya taşınabilir EXE paketlerine bu liste **dahil edilmez**.
 
+## v0.8.3
+
+- Belge sayfaları araç çubuğunda simge düğmeleri Filtrele düğmesinin gerçek yüksekliğine bağlandı; son (önizleme) düğmesinin sağındaki fazla boşluk giderildi
+- Ana pencere title bar'ında uygulama adının yanında kısa açıklama cümlesi gösterilir
+- yalnızca son kullanıcı maddelerini içerir
+- GitHub Releases notları artık tam CHANGELOG yerine ile aynı son kullanıcı özetini kullanır
+
 ## v0.8.2
 
 - Ayarlar: WhatsApp mesaj şablonları listesi boşken CardExpander altındaki gereksiz boşluk giderildi
