@@ -4,6 +4,11 @@ Her yayında `sync-release-repo.ps1` bu dosyaya o sürümün **kısa madde özet
 
 **Ayrıntılı sürüm notları** (geliştirici `CHANGELOG.md` içeriği, kategori başlıklarıyla) [GitHub Releases](https://github.com/kemalersin/belgi-arsiv/releases) sayfasında yayınlanır. İndirilen kurulum, ZIP veya taşınabilir EXE paketlerine changelog **dahil edilmez**.
 
+## v0.8.2
+
+- `_publish-test-sc/` yerel publish test çıktısı `.gitignore` ile ana repodan hariç tutuldu
+- Ayarlar: WhatsApp mesaj şablonları listesi boşken CardExpander altındaki gereksiz boşluk giderildi
+
 ## v0.8.1
 
 - Release yayın akışı Cursor kuralı (`.cursor/rules/release.mdc`)
