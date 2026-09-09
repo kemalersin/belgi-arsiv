@@ -67,5 +67,4 @@ Teknik destek ve lisans talepleri için Olimpus Bilgisayar ile iletişime geçin
 
 ## Sürüm geçmişi
 
-- Kısa özet: [`RELEASES.md`](./RELEASES.md)
-- Ayrıntılı sürüm notları: [GitHub Releases](https://github.com/kemalersin/belgi-arsiv/releases)
+[`RELEASES.md`](./RELEASES.md) — her sürümde neler değişti. Aynı özet [GitHub Releases](https://github.com/kemalersin/belgi-arsiv/releases) sayfasında da yer alır.
