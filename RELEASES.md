@@ -4,11 +4,16 @@ Belgi Arşiv sürümlerinde neler değişti — kısa özet.
 
 İndirilen kurulum, ZIP veya taşınabilir EXE paketlerine bu liste **dahil edilmez**.
 
+## v0.8.4
+
+- Ana pencere title bar açıklama cümlesi birkaç saniye sonra yalnızca uygulama adına döner
+- Uygulama yapılandırması artık yalnızca kod varsayılanları ve SQLite tablosundan okunuyor; gömülü dosyası ve AppData kopyası kaldırıldı
+- (kaynak, gömülü kaynak ve AppData bootstrap akışı)
+
 ## v0.8.3
 
 - Belge sayfaları araç çubuğunda simge düğmeleri Filtrele düğmesinin gerçek yüksekliğine bağlandı; son (önizleme) düğmesinin sağındaki fazla boşluk giderildi
 - Ana pencere title bar'ında uygulama adının yanında kısa açıklama cümlesi gösterilir
-- yalnızca son kullanıcı maddelerini içerir
 - GitHub Releases notları artık tam CHANGELOG yerine ile aynı son kullanıcı özetini kullanır
 
 ## v0.8.2
