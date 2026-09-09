@@ -1,0 +1,14 @@
+# Gecici / yerel
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Yanlislikla kopyalanan gelistirme ciktilari
+**/bin/
+**/obj/
+**/publish/
+
+# Ikili yayin dosyalari (varsayilan: yalnizca GitHub Releases)
+releases/v*/
+releases/**/*.exe
+releases/**/*.zip
