@@ -1,2 +1,3 @@
 # Ikili dosyalar git deposunda tutulmaz; GitHub Releases uzerinden indirilir.
-# Eski LFS kurulumu kaldirildi.
+
+*.md text eol=lf
