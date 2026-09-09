@@ -4,6 +4,17 @@ Belgi Arşiv sürümlerinde neler değişti — kısa özet.
 
 İndirilen kurulum, ZIP veya taşınabilir EXE paketlerine bu liste **dahil edilmez**.
 
+## v0.8.5
+
+- Lisans aktivasyon penceresinde XML metin alanı kaldırıldı; yalnızca dosyası seçimi kullanılıyor
+- Lisans aktivasyon penceresinde kopyala ve dosya seç düğmeleri, Ayarlar’daki gibi giriş alanı içi simge düğme olarak gösteriliyor
+- Lisans aktivasyon penceresi, Splash/Hakkında kart düzeni ve Ayarlar form etiketleriyle yeniden düzenlendi; hata mesajları durum bandı olarak gösteriliyor
+- Lisans aktivasyon penceresinde FluentWindow çerçevesi kaldırıldı; Splash/login ile aynı çerçevesiz panel görünümü kullanılıyor
+- Lisans aktivasyon paneline diyalog gölgesi eklendi
+- Splash/login ve bootstrap uyarı panellerine uygulandı; bootstrap uyarı penceresi çerçevesiz panel görünümüne alındı
+- Splash, login ve lisans panellerinde kenarlık kaldırıldı; yalnızca gölge kullanılıyor
+- Hakkında diyalog kartında kenarlık kaldırıldı
+
 ## v0.8.4
 
 - Ana pencere title bar açıklama cümlesi birkaç saniye sonra yalnızca uygulama adına döner
