@@ -4,6 +4,18 @@ Belgi Arşiv sürümlerinde neler değişti — kısa özet.
 
 İndirilen kurulum, ZIP veya taşınabilir EXE paketlerine bu liste **dahil edilmez**.
 
+## v0.8.6
+
+- Ayarlar → WhatsApp mesaj şablonları: Meta'da kayıtlı şablonları listeleme, seçilenleri programa çekme ve Meta'dan silme
+- WhatsApp gönderim diyaloğu, kişi adı yazılırken genişliği değiştirmiyor; sabit 480px kullanılıyor
+- Koyu modda DatePicker takvim popup arka planı şeffaf görünüyordu; opak yüzey rengi kullanılıyor
+- Meta şablon silme, onay diyaloğu açılınca kapanan veritabanı bağlamı yüzünden hata veriyordu
+- WhatsApp şablon doğrulaması «{{Karşı Taraf}}, {{Belge No}}» gibi virgülle ayrılmış değişkenleri yanlışlıkla yan yana sayıyordu
+- Meta'dan silinen şablon Ayarlar listesinden hemen kalkmıyordu
+- Matbu PDF sorgu düzenleme diyaloğunda SQL kod renklendirmesi koyu temada açık tema renklerini kullanıyordu; koyu palete uyarlandı
+- Windows başlangıcında arka planda açılışta görev çubuğu simgesi ekran dışındaki pencereyi göstermiyordu; tepsi veya görev çubuğundan pencere görünür alana taşınıyor
+- WhatsApp gönderim diyaloğunda kişi adı alanı en fazla 50 karakter ile sınırlandı
+
 ## v0.8.5
 
 - Lisans aktivasyon penceresinde XML metin alanı kaldırıldı; yalnızca dosyası seçimi kullanılıyor

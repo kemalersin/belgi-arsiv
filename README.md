@@ -10,15 +10,15 @@ Bu depo **indirme sayfasıdır** (README + sürüm geçmişi). Kurulum dosyalar�
 
 ## Son sürüm
 
-Sürüm **v0.8.5**
+Sürüm **v0.8.6**
 <!-- DOWNLOADS -->
 | Profil | Açıklama | Dosya |
 |--------|----------|-------|
-| Taşınabilir (win-x64) | Tek EXE; .NET 8 runtime dahil | [BelgiArsiv-portable-win-x64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.5/BelgiArsiv-portable-win-x64.exe) |
-| Taşınabilir (win-arm64) | Tek EXE; ARM64, .NET dahil | [BelgiArsiv-portable-win-arm64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.5/BelgiArsiv-portable-win-arm64.exe) |
-| Self-contained (win-x64) | Klasör ZIP; kurulu runtime gerekmez | [BelgiArsiv-self-contained-win-x64.zip](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.5/BelgiArsiv-self-contained-win-x64.zip) |
-| Framework bağımlı (win-x64) | Klasör ZIP; .NET 8 Desktop Runtime gerekir | [BelgiArsiv-fxdep-win-x64.zip](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.5/BelgiArsiv-fxdep-win-x64.zip) |
-| Kurulum (win-x64) | Setup EXE; self-contained, Program Files kurulumu | [BelgiArsiv-setup-win-x64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.5/BelgiArsiv-setup-win-x64.exe) |
+| Taşınabilir (win-x64) | Tek EXE; .NET 8 runtime dahil | [BelgiArsiv-portable-win-x64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.6/BelgiArsiv-portable-win-x64.exe) |
+| Taşınabilir (win-arm64) | Tek EXE; ARM64, .NET dahil | [BelgiArsiv-portable-win-arm64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.6/BelgiArsiv-portable-win-arm64.exe) |
+| Self-contained (win-x64) | Klasör ZIP; kurulu runtime gerekmez | [BelgiArsiv-self-contained-win-x64.zip](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.6/BelgiArsiv-self-contained-win-x64.zip) |
+| Framework bağımlı (win-x64) | Klasör ZIP; .NET 8 Desktop Runtime gerekir | [BelgiArsiv-fxdep-win-x64.zip](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.6/BelgiArsiv-fxdep-win-x64.zip) |
+| Kurulum (win-x64) | Setup EXE; self-contained, Program Files kurulumu | [BelgiArsiv-setup-win-x64.exe](https://github.com/kemalersin/belgi-arsiv/releases/download/v0.8.6/BelgiArsiv-setup-win-x64.exe) |
 <!-- /DOWNLOADS -->
 
 ### Profiller
